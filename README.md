@@ -1,10 +1,11 @@
 # GuessingGame
-Second lab for CSC121
+//Joseph Kloepper
+//Second lab for CSC121
 ```
 main():
     Create an integer called "guess". 
     Create a "random" integer called "answer".
-    Create an integer called "turns" which will cap at a generous 7-10 guesses. 
+    Create an integer called "turns" which records how many turns it took the user to guess th    e answer. 
 
     Begin by asking the user for thier name.
     Follow up with a greeting.
@@ -23,6 +24,7 @@ main():
                 print ("You got it!") 
             KeepGoing = False
 
+// I didn't get to this part becuase my mind was honestly fried trying to keep up with the new syntax.
     Print a statment depending on how many turns were taken by the user. 
     If the turns were less than 8:
         Say "Great job!"
